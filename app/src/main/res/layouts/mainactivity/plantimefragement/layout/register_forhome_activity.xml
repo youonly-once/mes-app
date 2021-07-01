@@ -1,0 +1,133 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:titlebar="http://schemas.android.com/apk/res-auto"
+    android:background="@color/bg1">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.yambaobao.main.yambaobao.common_components.TitleBar
+            titlebar:TitleNameCenter="注册"
+            android:id="@+id/register_title_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:layout_margin="10dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.yambaobao.main.yambaobao.common_components.custom_component.ClearEditText
+                android:id="@+id/register_phone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/edit_bg"
+                android:drawableLeft="@drawable/login_phone_3x"
+                android:drawablePadding="10dp"
+                android:drawableStart="@drawable/login_phone_3x"
+                android:drawableRight="@drawable/clear_gray_3x"
+                android:drawableEnd="@drawable/clear_gray_3x"
+                android:hint="输入手机号"
+                android:inputType="phone"
+                android:padding="10dp"
+                android:textColor="@color/font_color3"
+                android:textColorHint="@color/hint_color"
+                android:textSize="12sp" />
+
+            <LinearLayout
+                android:layout_marginTop="15dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <com.yambaobao.main.yambaobao.common_components.custom_component.ClearEditText
+                    android:id="@+id/register_code"
+                    android:drawableLeft="@drawable/login_code_3x"
+                    android:drawableStart="@drawable/login_code_3x"
+                    android:drawablePadding="10dp"
+                    android:textColor="@color/font_color3"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:drawableRight="@drawable/clear_gray_3x"
+                    android:drawableEnd="@drawable/clear_gray_3x"
+                    android:maxLength="6"
+                    android:textSize="12sp"
+                    android:padding="10dp"
+                    android:background="@drawable/edit_bg"
+                    android:textColorHint="@color/hint_color"
+                    android:hint="请输入验证码"
+                    android:layout_weight="0.5"
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent" />
+
+                <Button
+                    android:minHeight="0dp"
+                    android:id="@+id/get_codebt"
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/getcode_bt_bgcolor"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="获取验证码"
+                    android:textColor="@drawable/getcode_bt_fontcolor"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <com.yambaobao.main.yambaobao.common_components.custom_component.ClearEditText
+                android:id="@+id/register_pws"
+                android:drawableLeft="@drawable/login_pwd_3x"
+                android:drawableStart="@drawable/login_pwd_3x"
+                android:drawableRight="@drawable/pwd_invisible_3x"
+                android:drawableEnd="@drawable/pwd_invisible_3x"
+                android:drawablePadding="10dp"
+                android:inputType="textPassword"
+                android:textColor="@color/font_color3"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="20dp"
+                android:textSize="12sp"
+                android:padding="10dp"
+                android:background="@drawable/edit_bg"
+                android:textColorHint="@color/hint_color"
+                android:hint="6到25字母组成的密码"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                android:id="@+id/register_bt"
+                android:textColor="@color/white"
+                android:layout_marginBottom="30dp"
+                android:text="注册"
+                android:background="@drawable/button_bg_green"
+                android:layout_width="match_parent"
+                android:layout_height="35dp" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_weight="0.5"
+                    android:text="注册表示您已阅读并同意"
+                    android:gravity="right"
+                    android:layout_width="1dp"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:textColor="@color/red"
+                    android:text="  亚美隐私政策"
+                    android:layout_weight="0.5"
+                    android:layout_width="1dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

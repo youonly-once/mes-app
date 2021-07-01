@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+ <string name="refresh">刷新</string>
+  <string name="quit">退出</string>
+  <string name="query">查询</string>
+  <string name="date">日期</string>
+  <string name="hourdata">产量</string>
+   <string name="rowcolor">#98F898</string>
+
+
+    <string name="xianti">线体</string>
+  <string name="tingji">开始</string>
+   <string name="jieshu">结束</string>
+    <string name="shijian">时间(分)</string>
+    <string name="leibie">类别</string>
+     <string name="yuanyin">原因</string>
+      <string name="zerenren">责任人</string>
+         <string name="datelabel_begin">开始时间</string>
+ 			 <string name="datelabel_end">结束时间</string>
+ 			 <string name="choice_xianti">选择线体</string>
+ 			 <string name="choice_type">选择类别</string>
+ 			 <string name="save">保存</string>
+ 			 <string name="scan">扫描</string>
+ 	<string name="collect">汇总：</string>
+ 	<string name="bumen">部门</string>
+ 	<string name="biaoqian">标签</string>
+ 	<string name="chart">图表：</string>
+ 	<string name="showlabel">标签</string>
+ 	<string name="banci">班次</string>
+ 	<string name="choice_banci">选择班次</string>
+ 	<string name="time">时间</string>		 
+</resources>

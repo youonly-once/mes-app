@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="back">返回</string>
+        <string name="seradd_textview">服务器地址:</string>
+        <string name="seruser_textview">服务器账户:</string>
+        <string name="serpas_textview">服务器密码:</string>
+        <string name="ser_addtext">10.139.114.218</string>
+        <string name="ser_usertext">""</string>
+        <string name="ser_pastext">""</string>
+</resources>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 查询参数 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:layout_centerVertical="true"
+            android:text="筛选"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="姓名：" />
+
+        <com.shu.messystem.component.ClearEditText
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/edit_bg"
+            android:drawableEnd="@drawable/clear_gray_3x"
+            android:padding="10dp"
+            android:text=""
+            android:textColor="@color/click_color"
+            android:textSize="13sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="部门：" />
+
+        <com.shu.messystem.component.ClearEditText
+            android:id="@+id/dept"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/edit_bg"
+            android:drawableEnd="@drawable/clear_gray_3x"
+            android:padding="10dp"
+            android:text=""
+            android:textColor="@color/click_color"
+            android:textSize="13sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="I P：    " />
+
+        <com.shu.messystem.component.ClearEditText
+            android:id="@+id/ip"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/edit_bg"
+            android:drawableEnd="@drawable/clear_gray_3x"
+            android:padding="10dp"
+            android:text=""
+            android:textColor="@color/click_color"
+            android:textSize="13sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="MAC：" />
+
+        <com.shu.messystem.component.ClearEditText
+            android:id="@+id/mac"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/edit_bg"
+            android:drawableEnd="@drawable/clear_gray_3x"
+            android:padding="10dp"
+            android:text=""
+            android:textColor="@color/click_color"
+            android:textSize="13sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="@color/gray" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="时间"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <com.shu.messystem.component.ClearEditText
+            android:layout_width="wrap_content"
+            android:id="@+id/begin_date"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/edit_bg"
+            android:button="@null"
+            android:clickable="true"
+            android:drawableEnd="@drawable/clear_gray_3x"
+            android:focusable="true"
+            android:gravity="center"
+            android:padding="10dp"
+
+            android:text=""
+            android:textColor="@color/click_color"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/yi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_weight="0"
+            android:button="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+
+            android:text="~"
+            android:textColor="@color/click_color"
+            android:textSize="13sp" />
+
+        <com.shu.messystem.component.ClearEditText
+            android:layout_width="wrap_content"
+            android:id="@+id/end_date"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/edit_bg"
+            android:button="@null"
+            android:clickable="true"
+            android:drawableEnd="@drawable/clear_gray_3x"
+            android:focusable="true"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text=""
+            android:textColor="@color/click_color"
+            android:textSize="13sp"
+            tools:ignore="RtlHardcoded" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:background="@color/bg0"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:background="@drawable/edit_bg"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="取消" />
+
+        <TextView
+            android:id="@+id/confirm"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/button_bg_blue"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="确定"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+</LinearLayout>

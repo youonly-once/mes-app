@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@anim/edittext_error_cycle_anim">
+
+    <translate
+        android:duration="100"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="-10"
+        android:toYDelta="-10" />
+    <translate
+        android:duration="100"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:startOffset="100"
+        android:toXDelta="10"
+        android:toYDelta="-10" />
+    <translate
+        android:duration="100"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:startOffset="200"
+        android:toXDelta="-10"
+        android:toYDelta="10" />
+    <translate
+        android:duration="100"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:startOffset="300"
+        android:toXDelta="10"
+        android:toYDelta="10" />
+</set>

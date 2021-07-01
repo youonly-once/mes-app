@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:titlebar="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.shu.messystem.component.TitleBar
+            android:id="@+id/login_title_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            titlebar:BarBackgroundColor="@color/bg1"
+            titlebar:RightTextColor="@color/white"
+            titlebar:TitleNameCenter="设置" />
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:stretchColumns="1">
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="@string/seradd_textview" />
+
+                <EditText
+                    android:id="@+id/seradd_edittext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:labelFor="@+id/seradd_edittext"
+                    android:padding="5dip"
+                    android:text="@string/ser_addtext" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="@string/seruser_textview" />
+
+                <EditText
+                    android:id="@+id/seruser_edittext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="textPassword"
+                    android:labelFor="@+id/seruser_edittext"
+                    android:padding="5dip"
+                    android:text="@string/ser_usertext" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="@string/serpas_textview" />
+
+                <EditText
+                    android:id="@+id/serpas_edittext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="textPassword"
+                    android:labelFor="@+id/serpas_edittext"
+                    android:padding="5dip"
+                    android:text="@string/ser_pastext" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="更新地址:" />
+
+                <EditText
+                    android:id="@+id/update_addr"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:labelFor="@+id/update_addr"
+                    android:padding="5dip"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="更新信息文件:" />
+
+                <EditText
+                    android:id="@+id/updateinfo_filename"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:labelFor="@+id/updateinfo_filename"
+                    android:padding="5dip"
+                    android:text="JSONMesApp.json" />
+            </TableRow>
+
+           <!-- <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="一甲下线工号:" />
+
+                <EditText
+                    android:id="@+id/ph_jia_09"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:labelFor="@+id/serpas_edittext"
+                    android:padding="5dip"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="一乙下线工号:" />
+
+                <EditText
+                    android:id="@+id/ph_yi_09"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:labelFor="@+id/serpas_edittext"
+                    android:padding="5dip"
+
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="一丙下线工号:" />
+
+                <EditText
+                    android:id="@+id/ph_bing_09"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:labelFor="@+id/serpas_edittext"
+                    android:padding="5dip"
+                    android:text="@string/ser_pastext" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="二甲下线工号:" />
+
+                <EditText
+                    android:id="@+id/pj_jia_09"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:labelFor="@+id/serpas_edittext"
+                    android:padding="5dip"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="二乙下线工号:" />
+
+                <EditText
+                    android:id="@+id/pj_yi_09"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:labelFor="@+id/serpas_edittext"
+                    android:padding="5dip"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="二丙下线工号:" />
+
+                <EditText
+                    android:id="@+id/pj_bing_09"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:labelFor="@+id/serpas_edittext"
+                    android:padding="5dip"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="三甲下线工号：" />
+
+                <EditText
+                    android:id="@+id/pk_jia_09"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:labelFor="@+id/serpas_edittext"
+                    android:padding="5dip"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="三乙下线工号：" />
+
+                <EditText
+                    android:id="@+id/pk_yi_09"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:labelFor="@+id/serpas_edittext"
+                    android:padding="5dip"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="三丙下线工号：" />
+
+                <EditText
+                    android:id="@+id/pk_bing_09"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:labelFor="@+id/serpas_edittext"
+                    android:padding="5dip"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="五甲下线工号：" />
+
+                <EditText
+                    android:id="@+id/tn_jia_09"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:labelFor="@+id/serpas_edittext"
+                    android:padding="5dip"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="五乙下线工号：" />
+
+                <EditText
+                    android:id="@+id/tn_yi_09"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:labelFor="@+id/serpas_edittext"
+                    android:padding="5dip"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:text="五丙下线工号：" />
+
+                <EditText
+                    android:id="@+id/tn_bing_09"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:labelFor="@+id/serpas_edittext"
+                    android:padding="5dip"
+                    android:text="" />
+            </TableRow>-->
+
+        </TableLayout>
+    </LinearLayout>
+</ScrollView>

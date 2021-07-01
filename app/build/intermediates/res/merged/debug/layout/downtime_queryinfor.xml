@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 查询参数 -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <!-- 显示开始时间 -->
+
+        <TextView
+            android:layout_weight="1"
+            android:id="@+id/downtime_datebegin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edit_bg"
+            android:clickable="true"
+            android:drawableLeft="@drawable/calendar"
+            android:drawablePadding="5dp"
+            android:drawableStart="@drawable/calendar"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:labelFor="@+id/downtime_datebegin"
+            android:padding="5dp"
+            android:textAlignment="gravity" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginStart="5dp"
+            android:gravity="center"
+            android:text="~" />
+
+        <TextView
+            android:layout_weight="1"
+            android:id="@+id/downtime_dateend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edit_bg"
+            android:clickable="true"
+            android:drawableLeft="@drawable/calendar"
+            android:drawablePadding="5dp"
+            android:drawableStart="@drawable/calendar"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:labelFor="@+id/downtime_datebegin"
+            android:padding="5dp"
+            android:textAlignment="gravity" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+
+        <TextView
+            android:layout_weight="1"
+            android:id="@+id/downtime_banci"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edit_bg"
+            android:clickable="true"
+            android:drawableLeft="@drawable/calendar"
+            android:drawablePadding="5dp"
+            android:drawableStart="@drawable/calendar"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:labelFor="@+id/downtime_banci"
+            android:padding="5dp"
+            android:textAlignment="gravity" />
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginStart="5dp"
+            android:gravity="center"
+            android:text="~" />
+
+        <TextView
+            android:layout_weight="1"
+            android:id="@+id/downtime_xiantidata"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edit_bg"
+            android:clickable="true"
+            android:drawableLeft="@drawable/xianti"
+            android:drawablePadding="5dp"
+            android:drawableStart="@drawable/xianti"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:labelFor="@+id/downtime_xiantidata"
+            android:padding="5dp" />
+    </LinearLayout>
+
+</LinearLayout>

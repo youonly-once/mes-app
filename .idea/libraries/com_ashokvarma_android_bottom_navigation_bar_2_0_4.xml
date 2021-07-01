@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.ashokvarma.android:bottom-navigation-bar-2.0.4">
+    <CLASSES>
+      <root url="jar://G:/.gradle/caches/transforms-1/files-1.1/bottom-navigation-bar-2.0.4.aar/71c5b3bad29a08dc032833de31bbc69c/jars/classes.jar!/" />
+      <root url="file://G:/.gradle/caches/transforms-1/files-1.1/bottom-navigation-bar-2.0.4.aar/71c5b3bad29a08dc032833de31bbc69c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ashokvarma.android/bottom-navigation-bar/2.0.4/e50ea53d799d32b8b2b2daec10cc124db9977b49/bottom-navigation-bar-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

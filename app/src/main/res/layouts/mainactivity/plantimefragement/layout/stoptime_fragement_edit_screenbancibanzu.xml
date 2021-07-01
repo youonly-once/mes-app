@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 查询参数 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_margin="10dp"
+        android:text="班次"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <CheckBox
+            android:id="@+id/dabaiban"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/makeprice_choose_bg"
+            android:button="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:padding="10dp"
+            android:checked="true"
+            android:text="大白班"
+            android:textColor="@color/click_color"
+            android:textSize="13sp" />
+
+        <CheckBox
+            android:id="@+id/dayeban"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+
+            android:layout_marginStart="10dp"
+            android:background="@drawable/makeprice_choose_bg"
+            android:button="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="大夜班"
+            android:checked="true"
+            android:textColor="@color/click_color"
+            android:textSize="13sp" />
+
+        <CheckBox
+            android:checked="true"
+            android:id="@+id/baiban"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:background="@drawable/makeprice_choose_bg"
+            android:button="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="白班"
+            android:textColor="@color/click_color"
+            android:textSize="13sp" />
+
+        <CheckBox
+            android:checked="true"
+            android:id="@+id/zhongban"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:background="@drawable/makeprice_choose_bg"
+            android:button="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="中班"
+            android:textColor="@color/click_color"
+            android:textSize="13sp" />
+
+        <CheckBox
+            android:checked="true"
+            android:id="@+id/yeban"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+
+            android:layout_marginStart="10dp"
+            android:background="@drawable/makeprice_choose_bg"
+            android:button="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="夜班"
+            android:textColor="@color/click_color"
+            android:textSize="13sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="@color/gray" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_margin="10dp"
+        android:text="班组"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <CheckBox
+            android:checked="true"
+            android:id="@+id/jia"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/makeprice_choose_bg"
+            android:button="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:padding="10dp"
+
+            android:text="甲班"
+            android:textColor="@color/click_color"
+            android:textSize="13sp" />
+
+        <CheckBox
+            android:checked="true"
+            android:id="@+id/yi"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+
+            android:layout_marginStart="10dp"
+            android:background="@drawable/makeprice_choose_bg"
+            android:button="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="乙班"
+            android:textColor="@color/click_color"
+            android:textSize="13sp" />
+
+        <CheckBox
+            android:checked="true"
+            android:id="@+id/bing"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+
+            android:layout_marginStart="10dp"
+            android:background="@drawable/makeprice_choose_bg"
+            android:button="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="丙班"
+            android:textColor="@color/click_color"
+            android:textSize="13sp" />
+    </LinearLayout>
+    <RelativeLayout
+        android:background="@color/bg0"
+        android:padding="10dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:background="@drawable/edit_bg"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="取消"/>
+        <TextView
+            android:id="@+id/confirm"
+            android:clickable="true"
+            android:focusable="true"
+            android:background="@drawable/button_bg_blue"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:gravity="center"
+            android:padding="10dp"
+            android:textColor="@color/white"
+            android:text="确定"/>
+    </RelativeLayout>
+</LinearLayout>

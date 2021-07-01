@@ -1,0 +1,91 @@
+<resources>
+    <!-- 启动界面的activity 设置背景避免启动白屏 -->
+    <style name="SplashActivity">
+        <item name="android:windowBackground">@drawable/login_bg</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <!--  默认  在这里设置. -->
+    <style name="LoginAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- 状态栏颜色 -->
+        <item name="colorPrimaryDark">@color/setting_black</item>
+        <!-- 标题栏颜色 -->
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="SettingAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- 状态栏颜色 -->
+        <item name="colorPrimaryDark">@color/table_title_bg</item>
+        <item name="android:background">@color/table_title_bg</item>
+        <item name="android:textColor">@color/white</item>
+        <!-- 标题栏颜色 -->
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="MainAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- 状态栏颜色 -->
+        <item name="colorPrimaryDark">@color/blue</item>
+        <!-- 控件选中时颜色 -->
+        <item name="colorAccent">@color/green</item>
+        <!-- 标题颜色 -->
+        <item name="android:textColorPrimary">@color/black</item>
+        <!-- 配置控件初始化显示时的颜色  例如radiobutton的圆形颜色 -->
+        <item name="colorControlNormal">@color/black</item>
+        <!-- 配置点击控件时的效果颜色 -->
+        <item name="colorControlHighlight">@color/green</item>
+        <!-- android5.0以上  设置底部导航栏颜色 -->
+        <!-- <item name="navigationBarColor">#1E90FF</item>  -->
+        <!-- 点击控件(或者控件被选中)后显示的颜色，如果使用该属性，那么colorAccent的效果将被覆盖。 -->
+        <!--<item name="colorControlActivated">@color/colorControlActivated</item> -->
+    </style>
+
+
+
+
+
+    <style name="ResultButton" parent="@android:style/Widget.Holo.Button.Borderless.Small">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="ShareButton" parent="@android:style/Widget.Holo.Button.Borderless.Small">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <!-- 主界面  工具栏样式 -->
+    <style name="Toolbar">
+        <!-- API 21 以上在这里设置. -->
+        <item name="android:navigationIcon">@drawable/menu</item>
+        <item name="android:popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+    </style>
+    <!--登录Activitystyle-->
+    <style name="LoginTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- 标题栏颜色 -->
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <!-- 状态栏颜色 -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+    </style>
+
+    <!--其他身份登录Activitystyle-->
+    <style name="OtherLoginTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- 状态栏颜色 -->
+        <!-- 标题栏颜色 -->
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <!-- 状态栏颜色 -->D
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+    </style>
+
+    <!--register Activitystyle-->
+    <style name="RegisterTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- 状态栏颜色 -->
+        <!-- 标题栏颜色 -->
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <!-- 状态栏颜色 -->D
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+    </style>
+
+</resources>

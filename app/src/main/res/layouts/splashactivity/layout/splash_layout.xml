@@ -1,0 +1,78 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="#002559"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    tools:context="com.shu.messystem.LoginActivity" >
+
+    <!-- Logo -->
+
+    <ImageView
+        android:id="@+id/splash_logo"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="50dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/login_haierlogo" />
+
+    <TextView
+        android:id="@+id/splash_welcome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_below="@id/splash_logo"
+        android:text="@string/splash_welcome"
+        android:textSize="20dp"
+        android:textColor="#FFFFFF" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_below="@id/splash_welcome"
+        android:text="@string/splash_loading"
+        android:textSize="15dp"
+        android:textColor="#FFFFFF" />
+    <!--
+     确认 与 取消 按钮
+	layout_below:在id edittext_password元素下方
+	layout_alignParentEnd 与父元素 edittext_password 右边界对其
+	labelFor 是干嘛的????????????????
+-->
+
+
+    <!--
+     确认 与 取消 按钮
+	ayout_alignTop:与id cancel，同一水平线
+	ayout_toStartOf 在id cancel，左边
+	layout_marginTop  上外边距
+ -->
+    <!--
+      作者 
+	end  右对齐
+-->
+    
+
+    <TextView
+        android:id="@+id/textview_website"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:text="@string/website"
+        android:textColor="#000000" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/textview_website"
+        android:gravity="center"
+        android:text="@string/author"
+        android:textColor="#000000" />
+
+</RelativeLayout>

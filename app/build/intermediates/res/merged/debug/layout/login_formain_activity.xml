@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:titlebar="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg1">
+
+    <com.shu.messystem.component.TitleBar
+        titlebar:TitleNameCenter="登录"
+        android:id="@+id/login_title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <com.shu.messystem.component.PagerSlidingTabStrip
+        android:id="@+id/pst"
+        android:layout_below="@+id/login_title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/white"
+        titlebar:pstsShouldExpand="true"
+        titlebar:pstsIndicatorHeight="2dp"
+        titlebar:pstsIndicatorColor="@color/bg3"
+        titlebar:pstsTextAllCaps="false"
+        titlebar:pstsUnderlineHeight="0dp"
+        titlebar:tabTextSize="15sp"
+        />
+    <!--
+       各属性的详细介绍如下。
+       pstsIndicatorColor：滑动条的颜色。
+       pstsIndicatorHeight：滑动条的高度。
+       pstsUnderlineColor：底部线条的颜色。（底部线条会填充屏幕宽度）
+       pstsUnderlineHeight：底部线条的高度。
+       pstsDividerColor：tab之间的竖直分割线的颜色。
+       pstsDividerPadding：tab之间的竖直分割线，距离顶部和底部的距离，即它的paddingTop和paddingBottom。
+       pstsTabPaddingLeftRight：单个tab内部的左间距和右间距，即它的paddingLeft和paddingRight。
+       pstsTabBackground：单个tab的背景。
+       pstsScrollOffset：当前tab滚动的偏移量。
+       pstsShouldExpand：设置为ture，每个tab的权重一样，均分屏幕宽度，默认值false。
+       pstsTextAllCaps：是否将tab中的字母转换成大写，默认值true。
+   -->
+    <android.support.v4.view.ViewPager
+        android:background="@color/desc_bg"
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/pst" />
+
+</RelativeLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 查询参数 -->
+
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <com.yyydjk.library.DropDownMenu
+            android:id="@+id/dropDownMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:dddividerColor="@color/white"
+            app:ddmaskColor="@color/mask_color"
+            app:ddmenuBackgroundColor="@color/white"
+            app:ddmenuMenuHeightPercent="0.9"
+            app:ddmenuSelectedIcon="@drawable/nav_down"
+            app:ddmenuTextSize="15sp"
+            app:ddmenuUnselectedIcon="@drawable/nav_up"
+            app:ddtextSelectedColor="@color/drop_down_selected"
+            app:ddtextUnselectedColor="@color/drop_down_unselected"
+            app:ddunderlineColor="@color/gray" />
+    <TextView
+        android:id="@+id/loading"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="加载中..."/>
+
+        <!--  <com.yyydjk.library.DropDownMenu
+              android:id="@+id/dropDownMenu"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              app:ddmenuTextSize="13sp" //tab字体大小
+          app:ddtextUnselectedColor="@color/drop_down_unselected" //tab未选中颜色
+          app:ddtextSelectedColor="@color/drop_down_selected" //tab选中颜色
+          app:dddividerColor="@color/gray"    //分割线颜色
+          app:ddunderlineColor="@color/gray"  //下划线颜色
+          app:ddmenuSelectedIcon="@mipmap/drop_down_selected_icon" //tab选中状态图标
+          app:ddmenuUnselectedIcon="@mipmap/drop_down_unselected_icon"//tab未选中状态图标
+          app:ddmaskColor="@color/mask_color"     //遮罩颜色，一般是半透明
+          app:ddmenuBackgroundColor="@color/white" //tab 背景颜色
+          app:ddmenuMenuHeightPercent="0.5" 菜单的最大高度，根据屏幕高度的百分比设置
+          ...
+          />-->
+
+
+    </LinearLayout>

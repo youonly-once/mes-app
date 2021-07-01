@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><!--自定义titlebar的属性-->
+<resources>
+    <declare-styleable name="TitleBar">
+        <attr name="BarDividerColor" format="color" />       <!-- titlebar 下划线颜色-->
+        <attr name="RightTextColor" format="color" /><!-- 右边 Action文字颜色-->
+        <attr name="BarBackgroundColor" format="color" />     <!-- titlebar 背景颜色-->
+        <attr name="LeftImageResource" format="reference" /><!-- titlebar左边图片-->
+        <attr name="TitleNameCenter" format="string" />     <!-- titlebar 中间文字-->
+        <attr name="TitleColor" format="color" />     <!-- titlebar 中间字体颜色-->
+        <attr name="LeftImageClickFinish" format="boolean" />    <!-- t点击左边 按钮是否finish activity-->
+    </declare-styleable>
+    <declare-styleable name="PagerSlidingTabStrip">
+        <attr name="pstsIndicatorColor" format="color" />
+        <attr name="pstsUnderlineColor" format="color" />
+        <attr name="pstsDividerColor" format="color" />
+        <attr name="pstsIndicatorHeight" format="dimension" />
+        <attr name="pstsUnderlineHeight" format="dimension" />
+        <attr name="pstsDividerPadding" format="dimension" />
+        <attr name="pstsTabPaddingLeftRight" format="dimension" />
+        <attr name="pstsScrollOffset" format="dimension" />
+        <attr name="pstsTabBackground" format="reference" />
+        <attr name="pstsShouldExpand" format="boolean" />
+        <attr name="pstsTextAllCaps" format="boolean" />
+        <attr name="tabTextSize" format="dimension" />
+    </declare-styleable>
+</resources>

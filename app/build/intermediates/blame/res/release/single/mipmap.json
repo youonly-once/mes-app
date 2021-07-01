@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\mipmap\\drop_down_selected_icon.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\splashactivity\\mipmap\\drop_down_selected_icon.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\mipmap\\drop_down_unselected_icon.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\splashactivity\\mipmap\\drop_down_unselected_icon.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\mipmap\\drop_down_checked.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\splashactivity\\mipmap\\drop_down_checked.png"
+    }
+]

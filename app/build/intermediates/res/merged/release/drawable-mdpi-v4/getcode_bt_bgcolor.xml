@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--获取验证码按钮的样式-->
+<!--点击获取验证码 后 60秒内不可用-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 可用时样式 -->
+    <item android:state_enabled="true">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+            <!-- 填充颜色 -->
+            <solid android:color="@color/white" />
+            <!-- 圆角 -->
+            <corners android:radius="3dip" />
+            <!-- 边线颜色 -->
+            <stroke android:width="1px" android:color="@color/enable_color" />
+        </shape>
+    </item>
+
+    <!-- 不可用时样式 -->
+    <item android:state_enabled="false">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+            <!-- 填充颜色 -->
+            <solid android:color="@color/white" />
+            <!-- 圆角 -->
+            <corners android:radius="3dip" />
+            <!-- 边线颜色 -->
+            <stroke android:width="2px" android:color="@color/disable_color" />
+        </shape>
+    </item>  <!--设置可用或者不可用状态下的字体颜色-->
+
+</selector> 

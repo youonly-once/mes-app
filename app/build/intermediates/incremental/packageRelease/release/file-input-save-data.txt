@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Dec 30 17:07:06 CST 2019
+0.baseType=DIRECTORY
+0.base=E\:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\transforms\\dex\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1

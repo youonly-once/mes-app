@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\95d33b1bfaaf9ec3e5a4e7954672e1b1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\dd_mask_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\DropDownMenu-1.0.4.aar\\de3c8900a29764b9bcc44a6e483d1627\\res\\anim\\dd_mask_out.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\dd_mask_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\DropDownMenu-1.0.4.aar\\de3c8900a29764b9bcc44a6e483d1627\\res\\anim\\dd_mask_in.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\dd_menu_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\DropDownMenu-1.0.4.aar\\de3c8900a29764b9bcc44a6e483d1627\\res\\anim\\dd_menu_in.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\95d33b1bfaaf9ec3e5a4e7954672e1b1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\95d33b1bfaaf9ec3e5a4e7954672e1b1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\95d33b1bfaaf9ec3e5a4e7954672e1b1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\95d33b1bfaaf9ec3e5a4e7954672e1b1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\95d33b1bfaaf9ec3e5a4e7954672e1b1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\menu_bottombar_in.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\pickerview\\build\\intermediates\\bundles\\debug\\res\\anim\\menu_bottombar_in.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\95d33b1bfaaf9ec3e5a4e7954672e1b1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\95d33b1bfaaf9ec3e5a4e7954672e1b1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\95d33b1bfaaf9ec3e5a4e7954672e1b1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\95d33b1bfaaf9ec3e5a4e7954672e1b1\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\95d33b1bfaaf9ec3e5a4e7954672e1b1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_bottom.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\pickerview\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\95d33b1bfaaf9ec3e5a4e7954672e1b1\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\menu_bottombar_out.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\pickerview\\build\\intermediates\\bundles\\debug\\res\\anim\\menu_bottombar_out.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\dd_menu_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\DropDownMenu-1.0.4.aar\\de3c8900a29764b9bcc44a6e483d1627\\res\\anim\\dd_menu_out.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_bottom.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\pickerview\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_bottom.xml"
+    }
+]

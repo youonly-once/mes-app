@@ -1,0 +1,127 @@
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
+        tools:context="${relativePackage}.${activityClass}" >
+
+        <!-- 顶部 时间 线体 -->
+
+        <include
+            android:id="@+id/downtime_include_queryinfor"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            layout="@layout/downtime_queryinfor" />
+
+        <!-- 查询按钮 -->
+
+        <Button
+            android:id="@+id/downtime_query_bt"
+            android:layout_width="fill_parent"
+            android:minHeight="0dp"
+			android:layout_height="wrap_content"
+            android:layout_below="@id/downtime_include_queryinfor"
+            android:layout_margin="10dp"
+			android:padding="10dp"
+            android:background="@drawable/button_bg_blue"
+            android:text="@string/query"
+            android:textColor="#FFFFFF" />
+
+        <!-- 汇总选项 -->
+
+		<TextView
+		    android:id="@+id/collectlabel"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignBottom="@+id/collect_radiogroup_scrollview"
+		    android:layout_below="@id/downtime_query_bt"
+		    android:layout_marginStart="10dp"
+		    android:gravity="center"
+		    android:text="@string/collect" />
+		<HorizontalScrollView
+		     android:id="@+id/collect_radiogroup_scrollview"
+		     android:layout_below="@id/downtime_query_bt"
+			android:layout_alignParentEnd="@id/collectlabel"
+	        android:layout_toEndOf="@id/collectlabel"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content">	
+			<RadioGroup
+	            android:id="@+id/collect_radiogroup"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+
+	            android:orientation="horizontal" >
+
+	            <RadioButton
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="@string/zerenren" />
+
+	            <RadioButton
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="@string/bumen" />
+	            <RadioButton
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="@string/xianti" />
+	            <RadioButton
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="@string/yuanyin" />
+	        </RadioGroup>
+
+        </HorizontalScrollView>
+        <TextView
+		    android:id="@+id/chaertlabel"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignBottom="@+id/show_label_check"
+		    android:layout_below="@id/collect_radiogroup_scrollview"
+		    android:layout_marginStart="10dp"
+		    android:gravity="center"
+		    android:text="@string/chart" />
+        
+        <CheckBox
+            android:id="@+id/show_label_check"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="@id/chaertlabel"
+            android:layout_below="@+id/collect_radiogroup_scrollview"
+            android:layout_toEndOf="@id/chaertlabel"
+            android:text="@string/showlabel" />
+
+        <!-- 饼图 -->
+
+        <com.github.mikephil.charting.charts.PieChart
+            android:id="@+id/downtime_piechart"
+            android:layout_width="fill_parent"
+            android:layout_height="250dp"
+            android:layout_below="@id/show_label_check"
+            android:layout_marginBottom="20dp"
+            android:layout_marginStart="10dp" />
+
+        <!-- 表格 数据 -->
+
+        <include
+            android:id="@+id/include_downtime_table_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_below="@id/downtime_piechart"
+            layout="@layout/downtime_table" />
+
+
+    </RelativeLayout>
+
+</ScrollView>

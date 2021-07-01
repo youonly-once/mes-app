@@ -1,0 +1,68 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
+        tools:context="${relativePackage}.${activityClass}" >
+
+        <!-- 顶部 时间 线体 -->
+
+        <include
+            android:id="@+id/include_table_queryinfor"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            layout="@layout/outputperhour_queryinfor" />
+
+        <!-- 查询按钮 -->
+
+        <Button
+            android:id="@+id/query_bt"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="0dp"
+            android:padding="10dp"
+            android:layout_below="@id/include_table_queryinfor"
+            android:layout_margin="10dp"
+            android:background="@drawable/button_bg_blue"
+            android:text="@string/query"
+            android:textColor="#FFFFFF" />
+
+        <!-- 柱状图 -->
+
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/outputperhour_barchart"
+            android:layout_width="fill_parent"
+            android:layout_height="250dp"
+            android:layout_below="@id/query_bt"
+            android:layout_marginBottom="20dp" />
+
+        <!-- 表格 标题 -->
+
+        <include
+            android:id="@+id/include_tabletitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/outputperhour_barchart"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            layout="@layout/outputperhour_table_title" />
+
+        <TableLayout
+            android:id="@+id/table_data"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/include_tabletitle"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="#DCDCDC" />
+    </RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,244 @@
+# view AndroidManifest.xml #generated:127
+-keep class android.support.v4.content.FileProvider { <init>(...); }
+
+# view res/layout/login_formain_activity.xml #generated:41
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/main_activity.xml #generated:2
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:43
+# view res/layout/abc_alert_dialog_material.xml #generated:52
+# view res/layout/abc_alert_dialog_material.xml #generated:66
+# view res/layout/abc_alert_dialog_title_material.xml #generated:56
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_select_dialog_material.xml #generated:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+# view v26\res/layout-v26/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+# view v26\res/layout-v26/abc_screen_toolbar.xml #generated:44
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+# view v26\res/layout-v26/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_title_material.xml #generated:45
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/main_activity.xml #generated:18
+# view v26\res/layout-v26/abc_screen_toolbar.xml #generated:37
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view res/layout/fixed_bottom_navigation_item.xml #generated:27
+# view res/layout/shifting_bottom_navigation_item.xml #generated:28
+-keep class com.ashokvarma.bottomnavigation.BadgeTextView { <init>(...); }
+
+# view res/layout/downtime_fragement_main.xml #generated:5
+# view res/layout/outputperhour_fragement_main.xml #generated:5
+# view res/layout/plantimeforstop_fragement_main.xml #generated:5
+-keep class com.ashokvarma.bottomnavigation.BottomNavigationBar { <init>(...); }
+
+# view res/layout/plantime_fragment_del.xml #generated:9
+# view res/layout/plantimeforstop_fragement_childdel.xml #generated:27
+-keep class com.baoyz.swipemenulistview.SwipeMenuListView { <init>(...); }
+
+# view res/layout/outputperhour_fragement_barchart.xml #generated:40
+-keep class com.github.mikephil.charting.charts.BarChart { <init>(...); }
+
+# view res/layout/downtime_fragement_piechart.xml #generated:105
+-keep class com.github.mikephil.charting.charts.PieChart { <init>(...); }
+
+# view AndroidManifest.xml #generated:139
+-keep class com.google.zxing.client.android.CaptureActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:262
+-keep class com.google.zxing.client.android.HelpActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:200
+-keep class com.google.zxing.client.android.PreferencesActivity { <init>(...); }
+
+# view res/layout/capture.xml #generated:25
+-keep class com.google.zxing.client.android.ViewfinderView { <init>(...); }
+
+# view AndroidManifest.xml #generated:229
+-keep class com.google.zxing.client.android.book.SearchBookContentsActivity { <init>(...); }
+
+# view res/layout/search_book_contents_list_item.xml #generated:17
+-keep class com.google.zxing.client.android.book.SearchBookContentsListItem { <init>(...); }
+
+# view AndroidManifest.xml #generated:204
+-keep class com.google.zxing.client.android.encode.EncodeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:250
+-keep class com.google.zxing.client.android.history.HistoryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:258
+-keep class com.google.zxing.client.android.share.AppPickerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:254
+-keep class com.google.zxing.client.android.share.BookmarkPickerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:240
+-keep class com.google.zxing.client.android.share.ShareActivity { <init>(...); }
+
+# view res/layout/pickerview_options.xml #generated:19
+# view res/layout/pickerview_options.xml #generated:26
+# view res/layout/pickerview_options.xml #generated:32
+# view res/layout/pickerview_time.xml #generated:19
+# view res/layout/pickerview_time.xml #generated:25
+# view res/layout/pickerview_time.xml #generated:31
+# view res/layout/pickerview_time.xml #generated:37
+# view res/layout/pickerview_time.xml #generated:43
+# view res/layout/singleoption_bottom_wheel.xml #generated:24
+-keep class com.lvfq.pickerview.lib.WheelView { <init>(...); }
+
+# view res/layout/plantimeforstop_fragement_child.xml #generated:12
+# view res/layout/plantimeforstop_fragement_childadd.xml #generated:12
+# view res/layout/plantimeforstop_fragement_childdel.xml #generated:9
+# view res/layout/stoptime_fragement_edit_content.xml #generated:3
+-keep class com.scwang.smartrefresh.layout.SmartRefreshLayout { <init>(...); }
+
+# view res/layout/plantimeforstop_fragement_child.xml #generated:108
+# view res/layout/plantimeforstop_fragement_childadd.xml #generated:139
+# view res/layout/plantimeforstop_fragement_childdel.xml #generated:42
+# view res/layout/stoptime_fragement_edit_content.xml #generated:34
+-keep class com.scwang.smartrefresh.layout.footer.ClassicsFooter { <init>(...); }
+
+# view res/layout/plantimeforstop_fragement_child.xml #generated:19
+# view res/layout/plantimeforstop_fragement_childadd.xml #generated:18
+# view res/layout/plantimeforstop_fragement_childdel.xml #generated:15
+# view res/layout/stoptime_fragement_edit_content.xml #generated:12
+-keep class com.scwang.smartrefresh.layout.header.ClassicsHeader { <init>(...); }
+
+# view AndroidManifest.xml #generated:74
+-keep class com.shu.messystem.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:109
+-keep class com.shu.messystem.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:102
+-keep class com.shu.messystem.SettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class com.shu.messystem.SplashActivity { <init>(...); }
+
+# view res/layout/login_forphone_fragment.xml #generated:24
+# view res/layout/login_forphone_fragment.xml #generated:50
+# view res/layout/login_foruserpas_fragment.xml #generated:23
+# view res/layout/login_foruserpas_fragment.xml #generated:41
+# view res/layout/login_main.xml #generated:28
+# view res/layout/login_main.xml #generated:49
+# view res/layout/plantimeforstop_fragement_child.xml #generated:63
+# view res/layout/plantimeforstop_fragement_child.xml #generated:79
+# view res/layout/plantimeforstop_fragement_childadd.xml #generated:110
+# view res/layout/plantimeforstop_fragement_childadd.xml #generated:27
+# view res/layout/plantimeforstop_fragement_childadd.xml #generated:48
+# view res/layout/plantimeforstop_fragement_childadd.xml #generated:64
+# view res/layout/plantimeforstop_fragement_childadd.xml #generated:80
+# view res/layout/plantimeforstop_fragement_childadd.xml #generated:95
+# view res/layout/setting.xml #generated:33
+# view res/layout/setting.xml #generated:63
+# view res/layout/setting.xml #generated:93
+# view res/layout/stoptime_fragement_edit_screen.xml #generated:127
+# view res/layout/stoptime_fragement_edit_screen.xml #generated:160
+# view res/layout/stoptime_fragement_edit_screen.xml #generated:194
+# view res/layout/stoptime_fragement_edit_screen.xml #generated:42
+# view res/layout/stoptime_fragement_edit_screen.xml #generated:70
+# view res/layout/stoptime_fragement_edit_screen.xml #generated:99
+# view res/layout/stoptime_fragement_edit_submit.xml #generated:129
+# view res/layout/stoptime_fragement_edit_submit.xml #generated:144
+# view res/layout/stoptime_fragement_edit_submit.xml #generated:160
+# view res/layout/stoptime_fragement_edit_submit.xml #generated:178
+# view res/layout/stoptime_fragement_edit_submit.xml #generated:195
+# view res/layout/stoptime_fragement_edit_submit.xml #generated:212
+-keep class com.shu.messystem.component.ClearEditText { <init>(...); }
+
+# view res/layout/login_formain_activity.xml #generated:14
+-keep class com.shu.messystem.component.PagerSlidingTabStrip { <init>(...); }
+
+# view res/layout/login_formain_activity.xml #generated:8
+# view res/layout/login_forphone_fragment.xml #generated:11
+# view res/layout/login_foruserpas_fragment.xml #generated:11
+# view res/layout/setting.xml #generated:8
+# view res/layout/setting_layout.xml #generated:13
+-keep class com.shu.messystem.component.TitleBar { <init>(...); }
+
+# view res/layout/plantimeforstop_fragement_toptip_layout.xml #generated:7
+-keep class com.shu.messystem.component.TopTips.view.TipRelativeLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:85
+-keep class com.shu.messystem.main_login.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:89
+-keep class com.shu.messystem.main_login.LoginOtherActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:93
+-keep class com.shu.messystem.main_register.RegisterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:115
+-keep class com.shu.messystem.update_component.InstallApkBroadCastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:99
+-keep class com.shu.messystem.update_component.UpdateServices { <init>(...); }
+
+# view res/layout/register_forhome_activity.xml #generated:12
+-keep class com.yambaobao.main.yambaobao.common_components.TitleBar { <init>(...); }
+
+# view res/layout/register_forhome_activity.xml #generated:24
+# view res/layout/register_forhome_activity.xml #generated:48
+# view res/layout/register_forhome_activity.xml #generated:82
+-keep class com.yambaobao.main.yambaobao.common_components.custom_component.ClearEditText { <init>(...); }
+
+# view res/layout/stoptime_fragement_edit.xml #generated:12
+-keep class com.yyydjk.library.DropDownMenu { <init>(...); }
+

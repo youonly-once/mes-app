@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\setting_layout.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\settingactivity\\layout\\setting_layout.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\login_main.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\loginactivity\\layout\\login_main.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\include_pickerview_topbar.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\pickerview\\build\\intermediates\\bundles\\release\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\login_title.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\loginactivity\\layout\\login_title.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\singleoption_bottom_wheel.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\pickerview\\build\\intermediates\\bundles\\release\\res\\layout\\singleoption_bottom_wheel.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\login_formain_activity.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\login_formain_activity.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\app_picker_list_item.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\zxingactivity\\layout\\app_picker_list_item.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\46a654c940c234d4c50de4f0377a8316\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\share.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\zxingactivity\\layout\\share.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\search_book_contents_header.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\zxingactivity\\layout\\search_book_contents_header.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\downtime_queryinfor.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\downtimefragement\\layout\\downtime_queryinfor.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\cehua_layout.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\layout\\cehua_layout.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\outputperhour_fragement_main.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\outputperhourfragement\\layout\\outputperhour_fragement_main.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\stoptime_fragement_edit_screen.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\stoptime_fragement_edit_screen.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\outputperhour_table_title.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\outputperhourfragement\\layout\\outputperhour_table_title.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\expandable_children.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\layout\\expandable_children.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\46a654c940c234d4c50de4f0377a8316\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\downtime_table.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\downtimefragement\\layout\\downtime_table.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\stoptime_fragement_edit.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\qrcodefragement\\layout\\stoptime_fragement_edit.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\encode.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\zxingactivity\\layout\\encode.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\tip_dialog_forios.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\layout\\tip_dialog_forios.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8ef089cbe855d9724903d84660aded30\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\46a654c940c234d4c50de4f0377a8316\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\46a654c940c234d4c50de4f0377a8316\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8ef089cbe855d9724903d84660aded30\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\login_foruserpas_fragment.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\login_foruserpas_fragment.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_basepickerview.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\pickerview\\build\\intermediates\\bundles\\release\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\splash_layout.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\splashactivity\\layout\\splash_layout.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\main_activity.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\46a654c940c234d4c50de4f0377a8316\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\qrcodescan_fragement.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\qrcodefragement\\layout\\qrcodescan_fragement.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\search_book_contents_list_item.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\zxingactivity\\layout\\search_book_contents_list_item.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\history_list_item.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\zxingactivity\\layout\\history_list_item.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\plantimeforstop_fragement_childdel.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\plantimeforstop_fragement_childdel.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\plantimeforstop_fragement_main.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\plantimeforstop_fragement_main.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\no_data_layout.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\qrcodefragement\\layout\\no_data_layout.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\outputperhour_queryinfor.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\outputperhourfragement\\layout\\outputperhour_queryinfor.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\bottom_navigation_bar_container.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\bottom-navigation-bar-2.0.4.aar\\71c5b3bad29a08dc032833de31bbc69c\\res\\layout\\bottom_navigation_bar_container.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\plantime_fragment_del.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\plantime_fragment_del.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\stoptime_fragement_edit_single.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\qrcodefragement\\layout\\stoptime_fragement_edit_single.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\logining.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\loginactivity\\layout\\logining.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\fixed_bottom_navigation_item.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\bottom-navigation-bar-2.0.4.aar\\71c5b3bad29a08dc032833de31bbc69c\\res\\layout\\fixed_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\register_forhome_activity.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\register_forhome_activity.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\setting.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\setting.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\pickerview_options.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\pickerview\\build\\intermediates\\bundles\\release\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\46a654c940c234d4c50de4f0377a8316\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\bookmark_picker_list_item.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\zxingactivity\\layout\\bookmark_picker_list_item.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\stoptime_fragement_edit_content.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\stoptime_fragement_edit_content.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\stoptime_fragement_edit_submit.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\stoptime_fragement_edit_submit.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\help.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\zxingactivity\\layout\\help.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\plantimeforstop_fragement_child.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\plantimeforstop_fragement_child.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\qrcode_result.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\qrcodefragement\\layout\\qrcode_result.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\46a654c940c234d4c50de4f0377a8316\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\expandable_parent.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\layout\\expandable_parent.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\capture.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\zxingactivity\\layout\\capture.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\stoptime_fragement_edit_screenbancibanzu.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\stoptime_fragement_edit_screenbancibanzu.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\plantimeforstop_fragement_toptip_layout.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\layout\\plantimeforstop_fragement_toptip_layout.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\scaninfo_listviewlayout.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\qrcodefragement\\layout\\scaninfo_listviewlayout.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\downtime_fragement_main.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\downtimefragement\\layout\\downtime_fragement_main.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\outputperhour_fragement_barchart.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\outputperhourfragement\\layout\\outputperhour_fragement_barchart.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\shifting_bottom_navigation_item.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\bottom-navigation-bar-2.0.4.aar\\71c5b3bad29a08dc032833de31bbc69c\\res\\layout\\shifting_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\pickerview_time.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\pickerview\\build\\intermediates\\bundles\\release\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\inputcode_dialog_layout.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\zxingactivity\\layout\\inputcode_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\plantimeforstop_fragement_childdel_plansingle.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\plantimeforstop_fragement_childdel_plansingle.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\downtime_fragement_piechart.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\downtimefragement\\layout\\downtime_fragement_piechart.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\stoptime_fragement_edit_listview_header.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\stoptime_fragement_edit_listview_header.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\plantimeforstop_fragement_childadd.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\plantimeforstop_fragement_childadd.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\46a654c940c234d4c50de4f0377a8316\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\46a654c940c234d4c50de4f0377a8316\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_list_drop_down.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\item_list_drop_down.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\tooltip.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\login_forphone_fragment.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\plantimefragement\\layout\\login_forphone_fragment.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\layout\\search_book_contents.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\zxingactivity\\layout\\search_book_contents.xml"
+    }
+]

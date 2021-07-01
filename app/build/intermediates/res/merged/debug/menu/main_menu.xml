@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"  
+    xmlns:app="http://schemas.android.com/apk/res-auto">  
+    <!--搜索菜单  
+    <item  
+        android:id="@+id/action_search"  
+        android:icon="@drawable/back"   
+        android:orderInCategory="80"  
+        android:title="search"  
+        app:actionViewClass="android.support.v7.widget.SearchView"  
+        app:showAsAction="ifRoom" />  
+     分享菜单  
+    <item  
+        android:id="@+id/action_share"  
+        android:icon="@drawable/back"  
+        android:orderInCategory="90"  
+        android:title="share"  
+        app:showAsAction="ifRoom" />  
+        --> 
+     <!--更多菜单-->  
+     <item  
+        android:id="@+id/refresh"  
+        android:icon="@drawable/refresh"  
+        android:orderInCategory="100"  
+        android:title="@string/refresh"  
+        app:showAsAction="ifRoom" /> 
+     <item  
+        android:id="@+id/exit"  
+        android:icon="@drawable/quit"  
+        android:orderInCategory="100"  
+        android:title="@string/quit"  
+        app:showAsAction="ifRoom" />  
+</menu>  

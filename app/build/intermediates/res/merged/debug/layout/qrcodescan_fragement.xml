@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="15dp"
+    android:layout_marginStart="15dp"
+    android:layout_marginTop="15dp"
+    android:orientation="horizontal"
+    android:stretchColumns="1" >
+
+    <ImageView
+        android:id="@+id/scan_2dcode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:padding="5dp"
+        android:src="@drawable/search"
+        android:contentDescription="@string/scan"/>
+
+    <EditText
+        android:id="@+id/scan_data"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.31"
+        android:background="@drawable/edit_bg"
+        android:clickable="true"
+        android:drawablePadding="20dp"
+        android:drawableStart="@drawable/calendar"
+        android:gravity="center_vertical"
+        android:labelFor="@+id/scan_data"
+        android:padding="5dp"
+        android:textAlignment="gravity"
+        android:textSize="18sp" 
+        android:inputType="text" 
+        android:contentDescription="@string/scan"/>
+
+    <ImageView
+        android:id="@+id/scan_code"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:padding="5dp"
+        android:src="@drawable/search"
+        android:textAlignment="gravity" 
+        android:contentDescription="@string/scan"/>
+
+</LinearLayout>

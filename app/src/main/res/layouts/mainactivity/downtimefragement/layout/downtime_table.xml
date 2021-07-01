@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content">
+    <!-- 数据表格 标题栏 -->
+    <TableLayout
+        android:id="@+id/downtime_table_data"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+        android:background="#DCDCDC" >
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="30dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_margin="0.15dp"
+                android:layout_weight="1"
+                android:background="@color/table_title"
+                android:gravity="center"
+                android:text="@string/xianti" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_margin="0.15dp"
+                android:background="@color/table_title"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/shijian" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_margin="0.15dp"
+                android:layout_weight="1"
+                android:background="@color/table_title"
+                android:gravity="center"
+                android:text="@string/leibie" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_margin="0.15dp"
+                android:layout_weight="1"
+                android:background="@color/table_title"
+                android:gravity="center"
+                android:text="@string/zerenren" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_margin="0.15dp"
+                android:layout_weight="1"
+                android:background="@color/table_title"
+                android:gravity="center"
+                android:text="@string/yuanyin" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_margin="0.15dp"
+                android:layout_weight="1"
+                android:background="@color/table_title"
+                android:gravity="center"
+                android:text="@string/tingji" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_margin="0.15dp"
+                android:layout_weight="1"
+                android:background="@color/table_title"
+                android:gravity="center"
+                android:text="@string/jieshu" />
+        </TableRow>
+        <TableRow><TextView></TextView></TableRow>
+    </TableLayout>
+</HorizontalScrollView>

@@ -1,0 +1,4 @@
+#Mon Dec 30 17:07:06 CST 2019
+base.0=E\:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

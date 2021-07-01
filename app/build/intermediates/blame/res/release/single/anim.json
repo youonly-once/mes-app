@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\pop_in_anim.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\splashactivity\\anim\\pop_in_anim.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\fragment_right_out_anim.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\splashactivity\\anim\\fragment_right_out_anim.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\tooltip_exit.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\edittext_error_cycle_anim.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\splashactivity\\anim\\edittext_error_cycle_anim.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\fragment_left_out_anim.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\splashactivity\\anim\\fragment_left_out_anim.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\fragment_right_in_anim.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\splashactivity\\anim\\fragment_right_in_anim.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\dd_menu_in.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\DropDownMenu-1.0.4.aar\\543a0ad9b68a9ddc7846ccd68fce7157\\res\\anim\\dd_menu_in.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\dd_mask_out.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\DropDownMenu-1.0.4.aar\\543a0ad9b68a9ddc7846ccd68fce7157\\res\\anim\\dd_mask_out.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\tooltip_enter.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_bottom.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\pickerview\\build\\intermediates\\bundles\\release\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\menu_bottombar_in.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\pickerview\\build\\intermediates\\bundles\\release\\res\\anim\\menu_bottombar_in.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\dd_mask_in.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\DropDownMenu-1.0.4.aar\\543a0ad9b68a9ddc7846ccd68fce7157\\res\\anim\\dd_mask_in.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\pop_out_anim.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\splashactivity\\anim\\pop_out_anim.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\dd_menu_out.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\DropDownMenu-1.0.4.aar\\543a0ad9b68a9ddc7846ccd68fce7157\\res\\anim\\dd_menu_out.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_bottom.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\pickerview\\build\\intermediates\\bundles\\release\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\menu_bottombar_out.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\pickerview\\build\\intermediates\\bundles\\release\\res\\anim\\menu_bottombar_out.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\fragment_left_in_anim.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\splashactivity\\anim\\fragment_left_in_anim.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\edittext_error_shake_anim.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\splashactivity\\anim\\edittext_error_shake_anim.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\anim\\abc_popup_exit.xml"
+    }
+]

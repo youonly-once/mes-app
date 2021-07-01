@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\share.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\zxingactivity\\layout-land\\share.xml"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\encode.xml",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\layouts\\mainactivity\\zxingactivity\\layout-land\\encode.xml"
+    }
+]

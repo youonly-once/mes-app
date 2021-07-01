@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--获取验证码按钮的样式-->
+<!--点击获取验证码 后 60秒内不可用-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/enable_color" android:state_enabled="true"/>
+    <item android:color="@color/disable_color" android:state_enabled="false"/>
+</selector> 

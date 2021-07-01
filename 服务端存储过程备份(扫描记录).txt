@@ -1,0 +1,202 @@
+set ANSI_NULLS ON
+set QUOTED_IDENTIFIER ON
+go
+
+
+ALTER PROCEDURE [dbo].[QRCodeScan] 
+@code varchar(100)--接收客户端参数
+AS
+BEGIN
+SET NOCOUNT ON
+		declare @InnerSern varchar(100);--保存内筒码
+			--set @InnerSern=null
+		declare @OuterSern  varchar(100);--保存外筒码
+			--set @OuterSern=null
+		declare @QRCode varchar(120);--保存二维码
+			--set @QRcode='null'
+		declare @tiaoma varchar(50);
+			--set @tiaoma=null
+		declare @mac varchar(50);
+			--set @mac=null
+		--set nocount on
+
+		declare @zhandian table(zd_bh varchar(100),createdate varchar(100),vflag varchar(100),sern varchar(100) )
+		declare @z_zhandian table(zd_bh varchar(100),zd_name varchar(100) )
+		declare @quexian table(que_id varchar(100) ,que_name varchar(100),zd_bh varchar(100),sern varchar(100) )
+		--扫描二维码
+		if(len(@code) = 100)
+		begin
+			--保存条码
+			SELECT @tiaoma=printcode FROM cptiaoma WHERE  [2DCode] = @code;--条码是否存在
+			if(ISNULL(@tiaoma,'')='')
+				begin
+					SELECT @tiaoma=printcode FROM cptiaoma_old WHERE  [2DCode] = @code;--条码是否存在
+
+				end
+			--保存二维码
+			SET @QRCode=@code;
+		end
+		--扫描条码
+		--set nocount on
+		if(len(@code) = 20)
+		begin	
+			--保存条码
+			Set @tiaoma=@code
+			--查询二维码
+			SELECT @QRCode= [2DCode] FROM cptiaoma WHERE printcode  =@tiaoma;
+			if(ISNULL(@QRCode,'')='')
+				begin
+					SELECT @QRCode= [2DCode] FROM cptiaoma_old WHERE printcode  =@tiaoma;
+
+				end
+		end
+
+		--扫描外筒码
+		if(len(@code) = 10)
+		begin
+			--保存外筒码
+			set @OuterSern=@code;
+			--查询内筒码
+			SELECT @InnerSern=InnerSern   FROM NeiWaiTong_CJ where OuterSern= @OuterSern and BingState='绑定'
+			if(ISNULL(@InnerSern,'')='')
+				begin
+					SELECT @InnerSern=InnerSern   FROM NeiWaiTong_CJ_old where OuterSern= @OuterSern and BingState='绑定'
+
+				end
+			--查询条码
+			SELECT @tiaoma=sern   FROM FangWei_Check where FangWei_sern=  @OuterSern
+			if(ISNULL(@tiaoma,'')='')
+				begin
+					 SELECT @tiaoma=sern   FROM FangWei_Check_old where FangWei_sern=  @OuterSern
+
+				end
+
+			--查询二维码
+			SELECT @QRCode= [2DCode] FROM cptiaoma WHERE printcode  = @tiaoma;
+			if(ISNULL(@QRCode,'')='')
+				begin
+					SELECT @QRCode= [2DCode] FROM cptiaoma_old WHERE printcode  =@tiaoma;
+
+				end
+
+		end
+		--扫描内筒码
+		if(substring(@code,1,1) = 'I')
+		begin
+			--保存内筒码
+			set @InnerSern=@code;
+			--查询外筒码
+			SELECT @OuterSern=OuterSern   FROM NeiWaiTong_CJ where InnerSern= @InnerSern and BingState='绑定'
+			if(ISNULL(@OuterSern,'')='')
+				begin
+					SELECT @OuterSern=OuterSern   FROM NeiWaiTong_CJ_old where InnerSern= @InnerSern and BingState='绑定'
+
+				end
+			--查询条码
+			SELECT @tiaoma=sern  FROM FangWei_Check where FangWei_sern=  @OuterSern
+			if(ISNULL(@tiaoma,'')='')
+				begin
+					SELECT @tiaoma=sern  FROM FangWei_Check_old where FangWei_sern=  @OuterSern
+
+				end
+			--查询二维码
+			SELECT @QRCode= [2DCode] FROM cptiaoma WHERE printcode  = @tiaoma;
+			if(ISNULL(@QRCode,'')='')
+				begin
+					SELECT @QRCode= [2DCode] FROM cptiaoma_old WHERE printcode  =@tiaoma;
+
+				end
+
+		end
+		--扫描WIFI码
+		if(len(@code) = 12)
+		begin
+			
+			set @mac=@code;
+			--查询条码
+			SELECT @tiaoma=Sern    FROM z_comwcb_MAC  where MAC=  @mac and RelationState='1'
+			--查询二维码
+			SELECT @QRCode= [2DCode] FROM cptiaoma WHERE printcode  = @tiaoma;
+			if(ISNULL(@QRCode,'')='')
+				begin
+					SELECT @QRCode= [2DCode] FROM cptiaoma_old WHERE printcode  =@tiaoma;
+
+				end
+
+		end
+	
+		begin
+			--查询外筒码
+			if(@OuterSern  is null)
+				begin
+					SELECT @OuterSern=FangWei_sern  FROM FangWei_Check  where sern= @tiaoma 
+				end
+			if(ISNULL(@OuterSern,'')='')
+				begin
+					SELECT @OuterSern=FangWei_sern  FROM FangWei_Check_old   where sern= @tiaoma 
+
+				end
+			--查询内筒码
+			if(@InnerSern  is null)
+			begin
+				SELECT @InnerSern=InnerSern   FROM NeiWaiTong_CJ where OuterSern= @OuterSern and BingState='绑定'
+			end
+			if(ISNULL(@InnerSern,'')='')
+				begin
+					SELECT @InnerSern=InnerSern   FROM NeiWaiTong_CJ_old where OuterSern= @OuterSern and BingState='绑定'
+
+				end
+			--查询WIFI码
+			if(@mac  is null)
+			begin
+				SELECT @mac=Mac    FROM z_comwcb_MAC  where sern=@tiaoma  and RelationState='1'
+			end
+			--日期转为2018-06-29 11：11：00
+			--根据条码号查询扫描站点信息
+			insert into @zhandian SELECT zd_bh,CONVERT(varchar,createdate,120) as createdate,vflag+' '+isnull(ld_flag,''),sern FROM  z_comwcb WHERE sern=@tiaoma AND len(zd_bh)=4 --去除无效记录
+			insert into @zhandian SELECT zd_bh,CONVERT(varchar,createdate,120) as createdate,'(无)',sern FROM  z_comwcb_old WHERE sern=@tiaoma AND len(zd_bh)=4			
+				--根据条码号查询 缺陷信息
+			insert into @quexian SELECT z_quexian.que_id,que_name,zd_bh,sern FROM  z_quexian,z_jianyan WHERE z_quexian.que_id=z_jianyan.que_id and sern =@tiaoma
+			insert into @quexian SELECT z_quexian.que_id,que_name,zd_bh,sern FROM  z_quexian,z_jianyan_old WHERE z_quexian.que_id=z_jianyan_old.que_id and sern =@tiaoma
+			insert into @z_zhandian select zd_bh,zd_name from z_zhandian 
+			--查询安检仪信息
+			insert into @zhandian SELECT top 1 '安检一',CONVERT(varchar,SystemTime,120) as createdate,TestResult,SerialNo FROM  TestResult  WHERE (SerialNo =@tiaoma  or SerialNo =@QRCode ) and right(ajy_code,1)='1' order by SystemTime desc 
+			insert into @zhandian SELECT top 1 '安检二',CONVERT(varchar,SystemTime,120) as createdate,TestResult,SerialNo FROM  TestResult  WHERE (SerialNo =@tiaoma  or SerialNo =@QRCode ) and right(ajy_code,1)='2' order by SystemTime desc 	
+			insert into @zhandian SELECT top 1 '四码合一',CONVERT(varchar,SystemTime,120) as createdate,Result,Machine_code  FROM  DuomaheyiData  WHERE (Machine_code =@tiaoma  ) order by SystemTime desc		
+			insert into @zhandian SELECT top 1 '安检一',CONVERT(varchar,SystemTime,120) as createdate,TestResult,SerialNo FROM  TestResult_old  WHERE (SerialNo =@tiaoma  or SerialNo =@QRCode ) and right(ajy_code,1)='1' order by SystemTime desc 
+			insert into @zhandian SELECT top 1 '安检二',CONVERT(varchar,SystemTime,120) as createdate,TestResult,SerialNo FROM  TestResult_old  WHERE (SerialNo =@tiaoma  or SerialNo =@QRCode ) and right(ajy_code,1)='2' order by SystemTime desc 	
+			insert into @zhandian SELECT top 1 '四码合一',CONVERT(varchar,SystemTime,120) as createdate,Result,Machine_code  FROM  DuomaheyiData_old  WHERE (Machine_code =@tiaoma  ) order by SystemTime desc					
+			insert into @z_zhandian values('安检一','安检一')
+			insert into @z_zhandian values('安检二','安检二')
+			insert into @z_zhandian values('四码合一','四码合一')
+--select  * from @zhandian
+		--select  * from @z_zhandian
+		--select  * from @quexian
+
+		set @QRCode='二维码：'+ISNULL(@QRCode,'无')
+		set @OuterSern='外筒码：'+ISNULL(@OuterSern,'无')
+		set @InnerSern='内筒码：'+ISNULL(@InnerSern,'无')
+		set @mac='MAC码：'+ISNULL(@mac,'无')
+		if(len(@code) = 100)
+			set @QRCode='条形码：'+ISNULL(@tiaoma,'无')
+		if(len(@code) = 10)
+			set @OuterSern='条形码：'+ISNULL(@tiaoma,'无')
+		if(substring(@code,1,1) = 'I')
+			set @InnerSern='条形码：'+ISNULL(@tiaoma,'无')
+		if(len(@code) = 12)
+			set @mac='条形码：'+ISNULL(@tiaoma,'无')
+		--select '1' as  z_id ,@code as info
+		--union
+		select '2' as  z_id ,@QRCode as info,''  as createdate
+		union
+		select '3' as  z_id ,@OuterSern as info,''   as createdate
+		union
+		select '4' as  z_id, @InnerSern  as info,''   as createdate
+		union
+		select '5' as  z_id, @mac as info,''   as createdate
+		union
+		select '6' as z_id, zd_name+'('+vflag+'):'+isnull(que_name,'')+'  '+createdate as info ,createdate  from @zhandian as a left join @quexian as c  on a.zd_bh=c.zd_bh  left join @z_zhandian as d on a.zd_bh=d.zd_bh order by createdate asc
+		
+		end
+END
+

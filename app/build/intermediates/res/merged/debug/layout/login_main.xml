@@ -1,0 +1,126 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="#002559"
+    android:paddingBottom="30dp"
+    android:paddingLeft="30dp"
+    android:paddingRight="30dp"
+    tools:context="com.shu.messystem.LoginActivity">
+
+    <!-- Logo -->
+
+    <include layout="@layout/login_title" />
+
+    <ImageView
+        android:id="@+id/login_logo"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="50dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/login_haierlogo" />
+
+    <!-- 用户名 -->
+
+    <com.shu.messystem.component.ClearEditText
+        android:id="@+id/edittext_user"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/login_logo"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/edit_bg"
+        android:completionThreshold="1"
+        android:drawableEnd="@drawable/clear_gray_3x"
+        android:drawableLeft="@drawable/user"
+        android:drawableRight="@drawable/clear_gray_3x"
+        android:drawableStart="@drawable/user"
+        android:drawablePadding="10dp"
+        android:hint="@string/user"
+        android:inputType="text"
+        android:labelFor="@+id/edittext_user"
+        android:padding="10dp"
+        android:textColorHint="@color/hint_color" />
+
+    <!-- 密码框 -->
+
+    <com.shu.messystem.component.ClearEditText
+        android:id="@+id/edittext_password"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edittext_user"
+        android:background="@drawable/edit_bg"
+        android:drawableEnd="@drawable/pwd_invisible_3x"
+        android:drawableLeft="@drawable/password"
+        android:drawableRight="@drawable/pwd_invisible_3x"
+        android:drawableStart="@drawable/password"
+        android:hint="@string/password"
+        android:drawablePadding="10dp"
+        android:inputType="textPassword"
+        android:labelFor="@+id/edittext_password"
+        android:padding="10dp"
+        android:textColorHint="@color/hint_color" />
+    <!--
+     确认 与 取消 按钮 
+	layout_below:在id edittext_password元素下方
+	layout_alignParentEnd 与父元素 edittext_password 右边界对其 
+	labelFor 是干嘛的????????????????  
+-->
+
+
+    <Button
+        android:id="@+id/cancel"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/edittext_password"
+        android:background="@drawable/button_bg"
+        android:text=""
+        android:textColor="@color/white" />
+    <!--
+     确认 与 取消 按钮 
+	ayout_alignTop:与id cancel，同一水平线
+	ayout_toStartOf 在id cancel，左边 
+	layout_marginTop  上外边距
+ -->
+
+
+    <Button
+        android:id="@+id/ok"
+        android:layout_width="fill_parent"
+        android:layout_height="40dip"
+        android:layout_alignTop="@id/cancel"
+        android:layout_below="@id/edittext_password"
+        android:layout_marginTop="20dp"
+        android:layout_toLeftOf="@id/cancel"
+        android:layout_toStartOf="@id/cancel"
+        android:background="@drawable/button_bg_blue"
+        android:text="@string/ok"
+        android:textColor="@color/white" />
+    <!--
+      作者 
+	end  右对齐
+-->
+
+
+    <TextView
+        android:id="@+id/textview_website"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:text="@string/website"
+        android:textColor="#e8e8e8" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/textview_website"
+        android:gravity="center"
+        android:text="@string/author"
+        android:textColor="#e8e8e8" />
+
+</RelativeLayout>

@@ -1,0 +1,4 @@
+#Mon Dec 30 16:49:44 CST 2019
+base.0=E\:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

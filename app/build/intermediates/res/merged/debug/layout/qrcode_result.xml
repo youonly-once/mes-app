@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="vertical" >
+
+        <TableRow
+         android:layout_marginBottom="10dp">
+
+            <TextView
+                android:id="@+id/contents_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:paddingLeft="12dip"
+                android:textColor="@color/result_text"
+                android:textColorLink="@color/result_text"
+                android:textIsSelectable="true"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/contents_supplement_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:paddingLeft="12dip"
+                android:textColor="@color/result_text"
+                android:textColorLink="@color/result_text"
+                android:textIsSelectable="true" />
+        </TableRow>
+
+    </TableLayout>
+    <TextView
+        android:id="@+id/loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="正在查询...请稍后"
+        android:paddingStart="12dip"
+        android:paddingEnd="12dip"
+        android:textColor="@color/result_text"
+        android:textColorLink="@color/result_text"
+        android:textIsSelectable="true"
+        android:textStyle="bold"/>
+    <ListView
+        android:id="@+id/scan_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </ListView>
+</LinearLayout>

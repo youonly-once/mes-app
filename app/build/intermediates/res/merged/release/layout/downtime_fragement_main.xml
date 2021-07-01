@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<com.ashokvarma.bottomnavigation.BottomNavigationBar
+		android:id="@+id/downtime_bottom_navigation_bar"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="@color/white"
+		android:layout_alignParentBottom="true"
+		android:layout_gravity="bottom" />
+	<FrameLayout
+		android:id="@+id/downtime_childfragement_frame"
+		android:layout_above="@id/downtime_bottom_navigation_bar"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent" >
+	</FrameLayout>
+
+</RelativeLayout>

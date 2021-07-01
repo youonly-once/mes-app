@@ -1,0 +1,146 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:titlebar="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <com.shu.messystem.component.TitleBar
+        android:id="@+id/login_title_bar"
+        titlebar:RightTextColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        titlebar:TitleNameCenter="设置" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="1dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/seradd_textview"
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+
+            <com.shu.messystem.component.ClearEditText
+                android:id="@+id/seradd_edittext"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_weight="1"
+                android:background="@drawable/edit_bg"
+
+                android:text="@string/ser_addtext"
+                android:padding="10dp"
+                android:textColorHint="@color/hint_color"
+                android:textSize="13sp" />
+        </TableRow>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/bg1" />
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="更新地址:"
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+
+            <com.shu.messystem.component.ClearEditText
+                android:id="@+id/update_addr"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_weight="1"
+                android:background="@drawable/edit_bg"
+
+                android:text=""
+                android:padding="10dp"
+                android:textColorHint="@color/hint_color"
+                android:textSize="13sp" />
+        </TableRow>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/bg1" />
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="更新信息文件:"
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+
+            <com.shu.messystem.component.ClearEditText
+                android:id="@+id/updateinfo_filename"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_weight="1"
+                android:background="@drawable/edit_bg"
+                android:text="JSONMesApp.json"
+                android:inputType="phone"
+                android:padding="10dp"
+                android:textColorHint="@color/hint_color"
+                android:textSize="13sp" />
+        </TableRow>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/bg1" />
+
+
+    </TableLayout>
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textColor="@color/red"
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+    android:text="提示：如果是在内网使用请将 cqgtweixin.natapp1.cc 替换为 10.139.114.219 "/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/red"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="外网使用： cqgtweixin.natapp1.cc"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/red"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="内网使用：10.139.114.219 "/>
+    <Button
+        android:id="@+id/save"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="30dp"
+        android:background="@drawable/button_bg_green"
+        android:text="保存"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
+</LinearLayout>

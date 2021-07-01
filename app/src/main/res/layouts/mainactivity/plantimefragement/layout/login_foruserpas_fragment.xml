@@ -1,0 +1,152 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg1">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.shu.messystem.component.TitleBar
+            android:visibility="gone"
+            android:id="@+id/login_title_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:layout_margin="10dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.shu.messystem.component.ClearEditText
+                android:id="@+id/login_user"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/edit_bg"
+                android:drawableLeft="@drawable/login_uname_3x"
+                android:drawablePadding="10dp"
+                android:drawableStart="@drawable/login_uname_3x"
+                android:drawableRight="@drawable/clear_gray_3x"
+                android:drawableEnd="@drawable/clear_gray_3x"
+                android:hint="输入用户名"
+                android:inputType="text"
+                android:padding="10dp"
+                android:textColor="@color/font_color3"
+                android:textColorHint="@color/hint_color"
+                android:textSize="12sp" />
+
+            <com.shu.messystem.component.ClearEditText
+                android:id="@+id/login_pws"
+                android:drawableLeft="@drawable/login_pwd_3x"
+                android:drawableStart="@drawable/login_pwd_3x"
+                android:drawableRight="@drawable/pwd_invisible_3x"
+                android:drawableEnd="@drawable/pwd_invisible_3x"
+                android:drawablePadding="10dp"
+                android:textColor="@color/font_color3"
+                android:inputType="textPassword"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="70dp"
+                android:textSize="12sp"
+                android:padding="10dp"
+                android:background="@drawable/edit_bg"
+                android:textColorHint="@color/hint_color"
+                android:hint="6到25字母组成的密码"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                android:id="@+id/login_bt"
+                android:textColor="@color/white"
+                android:layout_marginBottom="40dp"
+
+                android:text="登录"
+                android:background="@drawable/button_bg_green"
+                android:layout_width="match_parent"
+                android:layout_height="35dp" />
+
+            <TextView
+                android:text="忘记密码?"
+                android:gravity="center"
+                android:layout_marginBottom="100dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <LinearLayout
+                android:id="@+id/other_login_tip"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_weight="0.33"
+                    android:background="@color/bg3"
+                    android:layout_width="1dp"
+                    android:layout_height="1dp" />
+
+                <TextView
+                    android:gravity="center"
+                    android:layout_weight="0.33"
+                    android:textColor="@color/font_color2"
+                    android:text="其他账号登录"
+                    android:layout_width="1dp"
+                    android:layout_height="wrap_content" />
+
+                <ImageView
+                    android:layout_weight="0.33"
+                    android:background="@color/bg3"
+                    android:layout_width="1dp"
+                    android:layout_height="1px" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/other_login"
+                android:layout_margin="20dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/jiamengshang"
+                    android:layout_width="1dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.33"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:gravity="center"
+                    android:src="@drawable/other_wechat"
+                    android:text="@string/jiamengs"
+                    android:textColor="@color/enable_color" />
+
+                <ImageView
+                    android:id="@+id/hehuoren"
+                    android:layout_width="1dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.33"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:gravity="center"
+                    android:src="@drawable/other_qq"
+                    android:text="@string/hehuoren"
+                    android:textColor="@color/enable_color" />
+
+                <ImageView
+                    android:id="@+id/kuaidiyuan"
+                    android:layout_width="1dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.33"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:src="@drawable/other_weibo"
+                    android:gravity="center"
+                    android:text="@string/kuaisongy"
+                    android:textColor="@color/enable_color" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

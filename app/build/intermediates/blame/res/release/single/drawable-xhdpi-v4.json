@@ -1,0 +1,518 @@
+[
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\login_uname_3x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\login_uname_3x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\drawer_shadow.9.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\nav_up.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\nav_up.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8ef089cbe855d9724903d84660aded30\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icons8_add_filled_100.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\icons8_add_filled_100.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\anjianyi.jpg",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\anjianyi.jpg"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8ef089cbe855d9724903d84660aded30\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\password.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\password.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8ef089cbe855d9724903d84660aded30\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\mine_select_3x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\mine_select_3x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\pwd_invisible_3x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\pwd_invisible_3x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\login_phone_3x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\login_phone_3x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\engineererror_black.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\engineererror_black.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\mine_online_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\mine_online_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\haierlogo.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\haierlogo.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\mine_call_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\mine_call_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\washing.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\washing.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\case3d.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\case3d.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\address.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\address.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\refresh.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\refresh.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\other_qq.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\other_qq.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\other_wechat.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\other_wechat.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\other_weibo.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\other_weibo.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\nav_right_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\nav_right_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\mine_benefit_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\mine_benefit_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\barchart.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\barchart.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\user.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\user.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8ef089cbe855d9724903d84660aded30\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_radio_uncheck.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_uncheck.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\book_black.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\book_black.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\washing_black.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\washing_black.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\delete.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\delete.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\book.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\book.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\find.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\find.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\case3d_black.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\case3d_black.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\mine_order_note_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\mine_order_note_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\order_shops_icon.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\order_shops_icon.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\user_sex_man_3x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\user_sex_man_3x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\mine_account_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\mine_account_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\piechart2.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\piechart2.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\find_black.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\find_black.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\mine_collect_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\mine_collect_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\alipay_logo_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\alipay_logo_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\surprise_select_3x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\surprise_select_3x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\add.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\login_pwd_3x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\login_pwd_3x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\mine_integral_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\mine_integral_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\wechat_logo_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\wechat_logo_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\case3d2.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\case3d2.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\mine_team_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\mine_team_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\close_gray_3x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\close_gray_3x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\nav_back_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\nav_back_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\clock_plan.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\clock_plan.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_radio_check.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_check.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\qrcode_scan.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\qrcode_scan.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\setting.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\setting.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\search.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\mine_setting_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\mine_setting_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\login_code_3x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\login_code_3x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\config.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\config.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8ef089cbe855d9724903d84660aded30\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\add_list_normal_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\add_list_normal_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\edit.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\edit.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\download.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\download.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\piechart.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\piechart.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\calendar.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\calendar.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\engineererror.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\engineererror.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\case3d1.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\case3d1.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\error.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\error.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\nengxiaotie.jpg",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\nengxiaotie.jpg"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\back.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\add_list_select_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\add_list_select_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\clear_gray_3x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\clear_gray_3x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\address_edit_btn_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\address_edit_btn_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tablechart.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\tablechart.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\clear_gray_2x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\clear_gray_2x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\pwd_visible_3x.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\pwd_visible_3x.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\xianti.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\xianti.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\quit.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\quit.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\menu.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\launcher_icon.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "G:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3e56f4b57fb4a6c4284bd8037f44a128\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\nav_down.png",
+        "source": "E:\\kaifa\\Android\\workplace androidstudio\\MesSystem\\app\\src\\main\\res\\drawable-xhdpi\\nav_down.png"
+    }
+]

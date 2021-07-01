@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+     tools:context="com.shu.messystem.MainActivity"
+     xmlns:tools="http://schemas.android.com/tools"
+     >
+<!-- 
+"ifRoom|withText"  ifRoom表示操作栏宽度足够的情况下 显示图标   withText显示图标同时显示文字
+ -->
+    <item 
+        android:id="@+id/backAndSave"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/back" 
+        android:icon="@drawable/back"
+        android:checkable="false">
+        
+    </item>
+</menu>

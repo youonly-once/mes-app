@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!-- 数据表格 标题栏 -->
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="#DCDCDC" >
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="30dp" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_margin="0.15dp"
+                android:layout_weight="1"
+                android:background="#98F898"
+                android:gravity="center"
+                android:text="@string/date" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_margin="0.15dp"
+                android:layout_weight="1"
+                android:background="#98F898"
+                android:gravity="center"
+                android:text="@string/xianti" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_margin="0.15dp"
+                android:layout_weight="1"
+                android:background="#98F898"
+                android:gravity="center"
+                android:text="@string/hourdata" />
+        </TableRow>
+    </TableLayout>
+
+</FrameLayout>

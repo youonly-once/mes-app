@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cehua_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#1E90FF"
+        android:contentDescription="@string/app_name"
+        android:paddingTop="20dip"
+        android:src="@drawable/haierlogo" />
+
+    <TextView
+        android:id="@+id/cehua_username"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#1E90FF"
+        android:gravity="center_horizontal"
+        android:text=""
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/cehua_userid"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#1E90FF"
+        android:gravity="center_horizontal"
+        android:paddingBottom="20dip"
+        android:text=""
+        android:textColor="#FFFFFF" />
+
+    <ExpandableListView
+        android:id="@+id/expandablelistview1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

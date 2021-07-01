@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>   
+ <resources>   
+ <color name="black">#000000</color><!--黑色 -->   
+ <color name="white">#FFFFFF</color><!--白色 -->   
+ <color name="green">#00FF00</color><!--绿色 -->  
+  <color name="blue">#1E90FF</color><!--蓝色  标题栏 状态栏颜色 -->  
+ <color name="setting_black">#0000CD</color><!--设置界面 状态兰颜色 -->
+ <color name="table_title">#98F898</color><!--表格 标题背景颜色 -->
+ <color name="hint_color">#d1d1d1</color>
+ <color name="make_bt_bg">#129fe6</color><!-- 取件 内按钮颜色-->
+   <color name="contents_text">#ff000000</color>
+  <color name="encode_view">#ffffffff</color>
+  <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+  <color name="result_minor_text">#ffc0c0c0</color>
+  <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+  <color name="result_text">#ffffffff</color>
+  <color name="result_view">#b0000000</color>
+  <color name="status_text">#ffffffff</color>
+
+  <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+  <color name="viewfinder_mask">#60000000</color>
+
+<color name="colorPrimaryDark">#76a393</color>
+
+<!--<color name="red">#ea7272</color>-->
+ <color name="red">#FF0000</color>
+<color name="bottom_bar_check">#40E0D0</color>
+<color name="bottom_bar_notcheck">#999</color>
+<color name="table_title_bg">#4e596d</color> <!--home 表格标题背景-->
+<!--home 表格内容背景-->
+<color name="table_title_desc">#f6fa21</color><!--home 表格标题说明字体颜色-->
+<color name="desc_bg">#eaeaea</color><!-- Activity 背景颜色-->
+<color name="desc_title">#4876FF</color><!-- 说明标题字体颜色-->
+<color name="desc_content">#e6a975</color><!-- 说明标题内容颜色-->
+<color name="user_head_bg">#76a393</color><!-- 我的 head背景颜色-->
+<color name="click_color">#64b7e1</color>
+<color name="modiphone_bgcolor">#acf5e7</color>
+<color name="modephone_color">#2ec8ca</color>
+<!--FONT -->
+<color name="font_color1">#999999</color>
+<color name="font_color2">#666666</color>
+<color name="font_color3">#333333</color>
+<color name="font_color4">#CCCCCC</color>
+<color name="font_color5">#212121</color>
+<!--BG-->
+<color name="bg0">#f5f5f5</color>
+<color name="bg1">#EEEEEE</color>
+<color name="bg3">#CCCCCC</color>
+
+<!-- titlebar背景颜色-->
+<color name="transparent">#00000000</color><!-- 颜色透明-->
+<color name="yellow">#fc9630</color><!-- titlebar下划线颜色-->
+<color name="cutoff_linecolor">#e8eaea</color><!-- 分割线颜色-->
+<color name="enable_color">#00eacb</color>         <!--登录按钮颜色-->
+<color name="disable_color">#d1d1d1</color><!--登录按钮 不可用时颜色-->
+<color name="background_tab_pressed">#6633B5E5</color>
+<color name="seller_info_title">#f7e5cd</color>
+<color name="seller_joinin_manage">#88ba83</color>
+
+ <color name="gray">#cccccc</color>
+
+ <color name="drop_down_selected">#64b7e1</color>
+ <color name="drop_down_unselected">#000000</color>
+
+ <color name="mask_color">#88888888</color>
+ <color name="check_bg">#f2f2f2</color>
+ <color name="un_press_color">#9C27B0</color>
+</resources>
+

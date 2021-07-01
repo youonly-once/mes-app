@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 失焦时样式 -->
+    <item android:state_checked="false">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle">
+            <!-- 填充颜色 -->
+            <solid android:color="#FFFFFF" />
+            <!-- 圆角 -->
+            <corners android:radius="5dip" />
+            <!-- 边线颜色-->
+            <stroke android:width="1px" android:color="#abf1ca" />
+        </shape>
+    </item>
+    <!-- 聚焦样式 -->
+    <item android:state_checked="true">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle">
+            <!-- 填充颜色 -->
+            <solid android:color="#4f77f9" />
+            <!-- 圆角 -->
+            <corners android:radius="5dip" />
+            <!-- 边线颜色
+            <stroke android:width="2px" android:color="#FF0000" />-->
+        </shape>
+    </item>
+</selector>
